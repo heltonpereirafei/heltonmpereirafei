@@ -17,10 +17,6 @@ Sou um desenvolvedor sênior com foco em **C#**, apaixonado por tecnologia e apr
 - **Design Patterns**: Aplicando boas práticas no desenvolvimento de software
 - **Front-end**: Melhorando minhas habilidades em XAML e UI/UX
 
-## 🌟 Projetos em Destaque
-- **[Projeto 1](https://github.com/heltonpereirafei/projeto-1)**: Descrição curta do projeto.
-- **[Projeto 2](https://github.com/heltonpereirafei/projeto-2)**: Descrição curta do projeto.
-
 ## 🎯 Objetivos para 2025
 - Concluir um projeto completo usando .NET MAUI
 - Compartilhar conhecimento através de artigos técnicos ou workshops
